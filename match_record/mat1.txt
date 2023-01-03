@@ -1,0 +1,12 @@
+Format: 1
+Team Size: 2
+
+Team: Aztechs
+12 for 1
+Ali 12 0 0
+Usman 0 1 0
+
+Team: Bleppers
+0 for 1
+Ahmad 0 1 0
+Ameen 0 0 0

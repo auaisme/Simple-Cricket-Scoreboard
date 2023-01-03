@@ -1,0 +1,12 @@
+Format: 1
+Team Size: 2
+
+Team: ax
+2 for 1
+ali 0 0 0
+usman 0 1 1
+
+Team: blep
+0 for 1
+ahmad 0 0 0
+ameen 0 1 1

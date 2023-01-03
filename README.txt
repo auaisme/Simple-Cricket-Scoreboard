@@ -1,0 +1,1 @@
+This is a simple scoreboard simulator for a cricket match; please not this program is not complete nor is it a representation of proper programming manners. This program is simply a school project which was completed under very strict guidelines over what was allowed to be used.
